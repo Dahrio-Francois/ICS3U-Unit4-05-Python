@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Andrew-Ten-Den
-# Created on: April 2022
+# Created by: Dahrio Francois
+# Created on: May 2022
 # This program adds all positive integers
 
 
